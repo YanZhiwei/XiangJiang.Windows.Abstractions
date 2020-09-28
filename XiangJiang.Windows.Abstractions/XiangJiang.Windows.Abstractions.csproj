@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>YanZhiwei</Authors>
+    <Company>YanZhiwei</Company>
+    <Product>XiangJiang</Product>
+    <Description>XiangJiang Windows Abstractions</Description>
+    <Copyright>Copyright YanZhiwei 2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/YanZhiwei/XiangJiang.Windows.Abstractions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Windows.Abstractions</RepositoryUrl>
+    <PackageIcon>nugetico.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\.assets\nugetico.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
