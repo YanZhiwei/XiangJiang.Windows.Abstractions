@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net5.0-windows7.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>YanZhiwei</Authors>
     <Company>YanZhiwei</Company>
@@ -12,6 +12,9 @@
     <PackageProjectUrl>https://github.com/YanZhiwei/XiangJiang.Windows.Abstractions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/YanZhiwei/XiangJiang.Windows.Abstractions</RepositoryUrl>
     <PackageIcon>nugetico.png</PackageIcon>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
